@@ -1,12 +1,12 @@
 ﻿### Índice
 
-* [Agnósticos](#agnosticos)
+* [Agnósticos](#agnósticos)
   * [Programação](#programação)
   * [Sistemas Operacionais](#sistemas-operacionais)
 * [Android](#android)
 * [C](#c)
 * [C#](#c-sharp)
-* [C++](#c-1)
+* [C++](#cpp)
 * [Docker](#docker)
 * [Engenharia de software](#engenharia-de-software)
   * [Arquitetura de Software](#arquitetura-de-software)
@@ -82,7 +82,7 @@
 * [C# e Orientação a Objetos](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/) - Caelum
 
 
-### C++
+<h3 id="cpp">C++</h3>
 
 * [Apostila Linguagem C++](http://www.ime.usp.br/~slago/slago-C++.pdf) - Silvio Lago (PDF)
 * [Estrutura de Dados](http://calhau.dca.fee.unicamp.br/wiki/images/0/01/EstruturasDados.pdf) (PDF)
@@ -114,6 +114,7 @@
 
 * [CI - Integração Contínua Sem Desculpa](https://ci.mrprompt.com.br)
 * [Deploy em produção para desenvolvedores](https://leanpub.com/deployemprodparadevs) - Rafael Gomes *(necessário conta no Leanpub ou e-mail válido)*
+* [Engenharia de Software Moderna](https://engsoftmoderna.info) - Marco Tulio Valente (HTML)
 * [Primeiros passos com Padrões de Projeto](https://leanpub.com/primeiros-passos-com-padroes-de-projeto/)
 
 
@@ -310,6 +311,7 @@
 
 #### Django
 
+* [Desenvolvimento Web com Python e Django](https://pythonacademy.com.br/ebooks/desenvolvimento-web-com-python-e-django) - Vinícius Ramos (endereço de e-mail *solicitado*, não obrigatório)
 * [Documentação do Django](https://docs.djangoproject.com/pt-br)
 * [Tutorial Django Girls](https://tutorial.djangogirls.org/pt/)
 
